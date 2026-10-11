@@ -1,0 +1,11 @@
+
+# Local account data
+Accounts.txt
+
+# Compiled Java files
+bin/
+target/
+*.class
+
+# Editor settings
+.vscode/
